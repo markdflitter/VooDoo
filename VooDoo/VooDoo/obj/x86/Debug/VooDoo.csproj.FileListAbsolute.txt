@@ -1,0 +1,48 @@
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\AboutDialog.baml
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\RenameDialog.baml
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\AboutDialog.g.cs
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\RenameDialog.g.cs
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\App.g.cs
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo_MarkupCompile.cache
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo_MarkupCompile.lref
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\MainWindow.baml
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.g.resources
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.pdb
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\bin\Debug\VooDoo.exe
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\bin\Debug\VooDoo.pdb
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.Properties.Resources.resources
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.exe
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\NotesDialog.g.cs
+C:\Users\USER\Desktop\VooDoo\VooDoo\VooDoo\obj\x86\Debug\NotesDialog.baml
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.exe
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.pdb
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\bin\Debug\VooDoo.exe
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\bin\Debug\VooDoo.pdb
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.csprojResolveAssemblyReference.cache
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\AboutDialog.baml
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\RenameDialog.baml
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\MainWindow.g.cs
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\AboutDialog.g.cs
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\NotesDialog.g.cs
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\RenameDialog.g.cs
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\App.g.cs
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo_MarkupCompile.cache
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo_MarkupCompile.lref
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\MainWindow.baml
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\NotesDialog.baml
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.g.resources
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.Properties.Resources.resources
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.csproj.GenerateResource.Cache
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\bin\Debug\VooDoo.exe.config
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\bin\Debug\Logger.dll
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\bin\Debug\Logger.pdb
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\bin\Debug\VooDooModel.dll
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDoo\VooDoo\bin\Debug\VooDooModel.pdb
+D:\Common\Mark\Application Data\ssss\VooDoo\VooDoo\VooDoo\bin\Debug\VooDoo.exe.config
+D:\Common\Mark\Application Data\ssss\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.exe
+D:\Common\Mark\Application Data\ssss\VooDoo\VooDoo\VooDoo\obj\x86\Debug\VooDoo.pdb

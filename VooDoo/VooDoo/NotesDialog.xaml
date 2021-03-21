@@ -1,0 +1,17 @@
+﻿<Window x:Class="VooDoo.NotesDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VooDoo"
+        mc:Ignorable="d"
+        Name="NotesWindow"
+        Title="Notes" Height="370" Width="940"
+        Icon="/VooDoo;component/VooDoo.jpg">
+    <Grid>
+        <TextBox x:Name="textBox" Margin="10,10,10,33" TextWrapping="Wrap" Text="" AcceptsReturn="true" SpellCheck.IsEnabled="True" IsManipulationEnabled="True" IsReadOnlyCaretVisible="True"/>
+        <Button x:Name="OKbutton" Content="OK" HorizontalAlignment="Right" Width="116" Margin="0,0,144,5" Height="23" VerticalAlignment="Bottom" IsDefault="True" Command="{Binding OKCommand}" CommandParameter="{Binding ElementName=NotesWindow}"/>
+        <Button x:Name="Cancelbutton" Content="Cancel" HorizontalAlignment="Right" Width="116" Margin="0,0,10,5" Height="23" VerticalAlignment="Bottom" IsCancel="True" Command="{Binding CancelCommand}" CommandParameter="{Binding ElementName=NotesWindow}"/>
+
+    </Grid>
+</Window>

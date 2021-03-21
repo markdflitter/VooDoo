@@ -1,0 +1,16 @@
+﻿<Window x:Class="VooDoo.AboutDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About VooDoo" Height="189" Width="403" ResizeMode="NoResize" Name="AboutWindow" Icon="/VooDoo;component/VooDoo.jpg">
+    <Grid Background="#FFF0F0F0">
+        <Button Content="OK" Command="{Binding CloseAboutCommand}" CommandParameter="{Binding ElementName=AboutWindow}" Height="24" HorizontalAlignment="Left" Margin="306,126,0,0" Name="button1" VerticalAlignment="Top" Width="75" IsDefault="True" />
+        <Image Height="107" HorizontalAlignment="Left" Margin="9,43,0,0" Source="VooDoo.jpg" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="107" />
+        <Label Content="VooDoo Task List Manager" Height="31" HorizontalAlignment="Left" Margin="7,6,0,0" Name="label1" VerticalAlignment="Top" Width="382" FontSize="18" FontFamily="Copperplate Gothic" FontWeight="Normal" FontStyle="Normal" />
+        <TextBlock Height="19" HorizontalAlignment="Left" Margin="130,43,0,0" Name="authorTextBLock" Text="{Binding Author}" VerticalAlignment="Top" Width="251" FontFamily="Copperplate Gothic" FontSize="14" />
+        <Label Content="Version: " Height="22" HorizontalAlignment="Left" Margin="126,69,0,0" Name="label2" VerticalAlignment="Top" Width="76" FontFamily="Copperplate Gothic" FontSize="14" />
+        <Label Content="Date: " FontFamily="Copperplate Gothic" FontSize="14" Height="22" HorizontalAlignment="Left" Margin="126,97,0,0" Name="label3" VerticalAlignment="Top" Width="76" />
+        <TextBlock Height="20" HorizontalAlignment="Left" Margin="197,75,0,0" Name="versionTextBlock" Text="{Binding Version}" VerticalAlignment="Top" Width="184" FontFamily="Copperplate Gothic" FontSize="14" />
+        <TextBlock FontFamily="Copperplate Gothic" FontSize="14" Height="20" Margin="197,103,0,0" Name="dateTextBlock" Text="{Binding BuildDate}" VerticalAlignment="Top" />
+        <Label Content="(c) Mark Flitter 2015" Height="24" HorizontalAlignment="Left" Margin="125,127,0,0" Name="label4" VerticalAlignment="Top" Width="165" />
+    </Grid>
+</Window>

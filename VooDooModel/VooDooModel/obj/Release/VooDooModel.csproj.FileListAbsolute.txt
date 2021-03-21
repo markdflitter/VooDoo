@@ -1,0 +1,7 @@
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDooModel\VooDooModel\bin\Release\VooDooModel.dll
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDooModel\VooDooModel\bin\Release\VooDooModel.pdb
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDooModel\VooDooModel\bin\Release\Log.dll
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDooModel\VooDooModel\bin\Release\Log.pdb
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDooModel\VooDooModel\obj\Release\VooDooModel.csprojResolveAssemblyReference.cache
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDooModel\VooDooModel\obj\Release\VooDooModel.dll
+D:\Common\Mark\Application Data\Projects\VooDoo\VooDooModel\VooDooModel\obj\Release\VooDooModel.pdb

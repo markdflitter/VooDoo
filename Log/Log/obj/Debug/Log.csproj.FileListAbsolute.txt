@@ -1,0 +1,10 @@
+D:\Common\Mark\Application Data\ssss\VooDoo\Log\Log\bin\Debug\Log.dll
+D:\Common\Mark\Application Data\ssss\VooDoo\Log\Log\bin\Debug\Log.pdb
+D:\Common\Mark\Application Data\ssss\VooDoo\Log\Log\obj\Debug\Log.csprojResolveAssemblyReference.cache
+D:\Common\Mark\Application Data\ssss\VooDoo\Log\Log\obj\Debug\Log.dll
+D:\Common\Mark\Application Data\ssss\VooDoo\Log\Log\obj\Debug\Log.pdb
+D:\Common\Mark\Application Data\Projects\VooDoo\Log\Log\bin\Debug\Log.dll
+D:\Common\Mark\Application Data\Projects\VooDoo\Log\Log\bin\Debug\Log.pdb
+D:\Common\Mark\Application Data\Projects\VooDoo\Log\Log\obj\Debug\Log.csprojResolveAssemblyReference.cache
+D:\Common\Mark\Application Data\Projects\VooDoo\Log\Log\obj\Debug\Log.dll
+D:\Common\Mark\Application Data\Projects\VooDoo\Log\Log\obj\Debug\Log.pdb
